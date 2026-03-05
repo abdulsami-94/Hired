@@ -1,0 +1,298 @@
+{
+  "hired": {
+    "tsconfig.json.git": [
+      {
+        "date": "2026-03-05T10:53:22.688Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-03-05T11:07:55.171Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2026-03-05T11:08:33.414Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2026-03-05T11:09:35.072Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2026-03-05T11:15:28.279Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2026-03-05T11:16:12.419Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2026-03-05T11:16:35.499Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2026-03-05T11:16:36.246Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-05T11:16:39.708Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ],
+    "eslint.config.mjs.git": [
+      {
+        "date": "2026-03-05T10:56:30.222Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 119
+      },
+      {
+        "date": "2026-03-05T10:56:38.621Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 8
+      }
+    ],
+    ".vscode/time_log.json": [
+      {
+        "date": "2026-03-05T11:03:29.434Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 11
+      }
+    ],
+    "lib/utils.ts": [
+      {
+        "date": "2026-03-05T11:04:18.479Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2026-03-05T11:04:41.688Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2026-03-05T11:07:22.168Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 160
+      }
+    ],
+    "app/globals.css.git": [
+      {
+        "date": "2026-03-05T11:11:28.998Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2026-03-05T11:11:32.117Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ],
+    "app/page.tsx.git": [
+      {
+        "date": "2026-03-05T11:12:30.835Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 35
+      }
+    ],
+    ".prettierrc": [
+      {
+        "date": "2026-03-05T11:17:28.328Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ],
+    ".prettierignore": [
+      {
+        "date": "2026-03-05T11:18:21.521Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-05T11:18:26.068Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-05T11:18:33.164Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-05T11:19:21.437Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2026-03-05T11:19:35.677Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 14
+      }
+    ],
+    "src/app/page.tsx": [
+      {
+        "date": "2026-03-05T11:20:41.193Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-05T11:21:27.233Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-05T11:22:45.971Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-05T11:22:47.065Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-05T11:23:48.174Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 61
+      }
+    ],
+    "src/app/test/page.tsx": [
+      {
+        "date": "2026-03-05T11:22:06.881Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-05T11:22:27.231Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2026-03-05T11:22:28.460Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-05T11:22:41.784Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 13
+      }
+    ],
+    "src/components/ui/Button.tsx": [
+      {
+        "date": "2026-03-05T11:25:34.543Z",
+        "user": {
+          "name": "Abdul Sami Shaikh",
+          "email": "abdulsamishaikh232@gmail.com"
+        },
+        "timeSpent": 24
+      }
+    ]
+  }
+}
