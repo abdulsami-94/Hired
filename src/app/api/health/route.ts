@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
-
 // This is a GET request handler
+
 export async function GET() {
     return NextResponse.json(
         {
@@ -9,7 +9,10 @@ export async function GET() {
             timestamp: new Date().toISOString()
         },
         {
-            status:200
+            status: 200
         }
     );
 }
+
+
+
