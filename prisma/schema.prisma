@@ -10,7 +10,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-
+  url = env("DATABASE_URL")
 }
 
 model Company {
@@ -23,6 +23,24 @@ model Company {
   createdAt DateTime @default(now()) // automatically set the time when the company is created
   updatedAt DateTime @updatedAt
 
-  jobs job[]            //This is relation field between company and job
+  jobs Job[]            //This is relation field between company and job
   
+}
+
+datasource db {
+  provider = "postgresql"
+  url = env("DATABASE_URL") // to connect .env
+}
+
+model Job {
+  id String @id @default(uuid())
+  title String
+  description String
+  location String
+  salary String?
+  type String
+  companyAt String
+  createdAt DateTime @default(now())
+
+  company Company @relation(fields: [companyId], references: [id])
 }
